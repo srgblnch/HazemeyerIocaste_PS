@@ -1,3 +1,4 @@
 1.7
  * shows regulation faults (xor interlock bits)
+ * ignores all IAC faults (some of the sextupole had it others not)
 
