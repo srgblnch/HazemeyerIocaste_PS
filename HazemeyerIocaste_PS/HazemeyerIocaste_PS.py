@@ -560,6 +560,9 @@ add_state_bit('Ready', BIT_READY)
 add_state_bit('Fault', BIT_GLOBAL_FAULT)
 add_state_bit('RegulationOk', BIT_REGOK)
 
-if __name__ == '__main__':
+def main():
     PS.tango_main(HazemeyerIocaste_PS)
+
+if __name__ == '__main__':
+    main()
 

@@ -61,6 +61,8 @@ setup(name=__project__,
                    ],
       packages=find_packages(),
       url=__url__,
+      entry_points={
+        'console_scripts':['HazemeyerIocaste_PS = HazemeyerIocaste_PS.main']},
       )
 
 # for the classifiers review see:
