@@ -24,8 +24,8 @@
 META = u"""
     $URL: https://svn.code.sf.net/p/tango-ds/code/Servers/PowerSupply/HazemeyerIocaste_PS/tags/1.11.1/HazemeyerIocaste_PS.py $
     $LastChangedBy: sergiblanch $
-    $Date: 2012-11-12 13:12:28 +0100 (Mon, 12 Nov 2012) $
-    $Rev: 5766 $
+    $Date: 2012-11-09 16:51:17 +0100 (Fri, 09 Nov 2012) $
+    $Rev: 5765 $
     License: GPL3+
     Author: Lothar Krause <lkrause@cells.es>
 """.encode('latin1')
